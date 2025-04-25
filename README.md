@@ -1,6 +1,7 @@
 # CP260-RP-2025
 
-![License](https://badgen.net/github/license/AshrithSagar/CP260-RP-2025)
+![GitHub](https://img.shields.io/github/license/AshrithSagar/CP260-RP-2025)
+![GitHub repo size](https://img.shields.io/github/repo-size/AshrithSagar/CP260-RP-2025)
 
 CP260: Robotic Perception, IISc
 
