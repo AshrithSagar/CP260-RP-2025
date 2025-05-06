@@ -6,3 +6,5 @@
 CP260: Robotic Perception, IISc
 
 Course website: <https://sites.google.com/view/aml-ids-iisc/cp260-2024>
+
+Project setup: <https://github.com/Semantic-Digital-Twin/Kimera-VIO-with-Realsense-D435i-Datasets>
